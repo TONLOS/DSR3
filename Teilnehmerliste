@@ -1,0 +1,11 @@
+|    **Teams** |                                                                                                            **Teilnehmer**                                                                                                     |
+|:----------------:|:----------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|
+|   1   |    | DOMIII  |   [<img src="https://www.svgrepo.com/show/13671/youtube.svg" width=50>](https://www.youtube.com/@Arfore)      |  Stine |     [<img src="https://www.svgrepo.com/show/448251/twitch.svg" width=50>](https://www.twitch.tv/arfore)       |
+|   2   |   [<img src="https://www.svgrepo.com/show/13671/youtube.svg" width=50>](https://www.youtube.com/@baastiZockt)    |                                                        ❌                                                        |
+|   3   |     [<img src="https://www.svgrepo.com/show/13671/youtube.svg" width=50>](https://www.youtube.com/@Blizzor)      |      [<img src="https://www.svgrepo.com/show/448251/twitch.svg" width=50>](https://www.twitch.tv/blizzor)       |
+|   4   |     [<img src="https://www.svgrepo.com/show/13671/youtube.svg" width=50>](https://www.youtube.com/@Caravas)      |     [<img src="https://www.svgrepo.com/show/448251/twitch.svg" width=50>](https://www.twitch.tv/caravasyt)      |
+|   5   |   [<img src="https://www.svgrepo.com/show/13671/youtube.svg" width=50>](https://www.youtube.com/@CastCrafter)    |    [<img src="https://www.svgrepo.com/show/448251/twitch.svg" width=50>](https://www.twitch.tv/castcrafter)     |
+|   6   |       [<img src="https://www.svgrepo.com/show/13671/youtube.svg" width=50>](https://www.youtube.com/@Clym)       |        [<img src="https://www.svgrepo.com/show/448251/twitch.svg" width=50>](https://www.twitch.tv/clym)        |
+|   7   |  [<img src="https://www.svgrepo.com/show/13671/youtube.svg" width=50>](https://www.youtube.com/@Crocodileandy)   |                                                        ❌                                                        |
+                                                                                                    
+❌   
